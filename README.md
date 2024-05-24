@@ -50,13 +50,11 @@ I am a dedicated data scientist with a passion for leveraging data analytics to 
 
 - **Description:** Collaborated on a study assessing the effectiveness of a community-based intervention to reduce discrimination, stigma, and sexual violence among men who have sex with men (MSM) in South Africa.
 - **Methodology:** Analyzed data from three serial cross-sectional surveys using logistic regression models to evaluate changes in discrimination, stigma, and sexual violence post-intervention.
-- **Code:** [Project 1: Intervention Against Discrimination and Violence in MSM Communities](https://github.com/gaogaojunxiao/MSM20240321---logistic-regression.html)
 
 #### Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery
 
 - **Description:** Led a research project focused on predicting 30-day post-operative readmission and medical complications in patients aged 65 and older following lumbar decompression surgery.
 - **Methodology:** Utilized the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP) database. Employed various machine learning algorithms, including PCA, t-SNE, AdaBoost, Random Forest, kNN, Stacking, Gradient Boosting, Neural Network, and ACE.
-- **Code:** [Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery](https://github.com/gaogaojunxiao/Coding-sample.html)
 
 #### Project 3: Exploring the Influence of Social Networks on Sensory Impairment and Depressive Symptoms in Older Populations
 
