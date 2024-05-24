@@ -56,6 +56,7 @@ I am a dedicated data scientist with a passion for leveraging data analytics to 
 
 - **Description:** Led a research project focused on predicting 30-day post-operative readmission and medical complications in patients aged 65 and older following lumbar decompression surgery.
 - **Methodology:** Utilized the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP) database. Employed various machine learning algorithms, including PCA, t-SNE, AdaBoost, Random Forest, kNN, Stacking, Gradient Boosting, Neural Network, and ACE.
+- **Code:** [Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery](https://github.com/gaogaojunxiao/project1.github.io)
 
 #### Project 3: Exploring the Influence of Social Networks on Sensory Impairment and Depressive Symptoms in Older Populations
 
