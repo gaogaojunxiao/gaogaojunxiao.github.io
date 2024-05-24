@@ -50,13 +50,13 @@ I am a dedicated data scientist with a passion for leveraging data analytics to 
 
 - **Description:** Collaborated on a study assessing the effectiveness of a community-based intervention to reduce discrimination, stigma, and sexual violence among men who have sex with men (MSM) in South Africa.
 - **Methodology:** Analyzed data from three serial cross-sectional surveys using logistic regression models to evaluate changes in discrimination, stigma, and sexual violence post-intervention.
-- **Code:** [Project 1: Intervention Against Discrimination and Violence in MSM Communities](file:///Users/junxiaogao/Documents/UCSF/MSM/R%20or%20Do%20files/MSM20240321---logistic-regression.html)
+- **Code:** [Project 1: Intervention Against Discrimination and Violence in MSM Communities](https://github.com/gaogaojunxiao/MSM20240321---logistic-regression.html)
 
 #### Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery
 
 - **Description:** Led a research project focused on predicting 30-day post-operative readmission and medical complications in patients aged 65 and older following lumbar decompression surgery.
 - **Methodology:** Utilized the American College of Surgeons National Surgical Quality Improvement Program (ACS NSQIP) database. Employed various machine learning algorithms, including PCA, t-SNE, AdaBoost, Random Forest, kNN, Stacking, Gradient Boosting, Neural Network, and ACE.
-- **Code:** [Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery] (file:///Users/junxiaogao/Documents/Study%202022-2023/PhD/application%20documents/Coding%20sample.html)
+- **Code:** [Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery](https://github.com/gaogaojunxiao/Coding-sample.html)
 
 #### Project 3: Exploring the Influence of Social Networks on Sensory Impairment and Depressive Symptoms in Older Populations
 
@@ -65,11 +65,10 @@ I am a dedicated data scientist with a passion for leveraging data analytics to 
 
 ### Career Interests/Directive/Goals
 
-I am driven by the opportunity to apply data science to address complex healthcare challenges and epidemiological issues. My career interests include [specific areas of interest]. Ultimately, I aspire to [brief description of your long-term career goals].
+I am driven by the opportunity to apply data science to address complex healthcare challenges and epidemiological issues. My career interests include social epidemiology. Ultimately, I aspired to become a data scientist.
 
 ## Links to Papers and Other Resources
 
 - **LinkedIn:** [Junxiao GAO](https://www.linkedin.com/in/junxiao-gao-462232142)
-- **LinkedIn:** [Junxiao GAO]( gaogaojunxiao.github.io)
+- **GitHub:** [Junxiao GAO](gaogaojunxiao.github.io)
 
-![image](https://github.com/gaogaojunxiao/gaogaojunxiao.github.io/assets/170679286/4cbc5e95-1106-45a5-b569-f3f9d9588156)
