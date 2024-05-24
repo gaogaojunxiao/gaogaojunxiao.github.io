@@ -70,5 +70,5 @@ I am driven by the opportunity to apply data science to address complex healthca
 ## Links to Papers and Other Resources
 
 - **LinkedIn:** [Junxiao GAO](https://www.linkedin.com/in/junxiao-gao-462232142)
-- **GitHub:** [Junxiao GAO](gaogaojunxiao.github.io)
+- **GitHub:** [Junxiao GAO](https://github.com/gaogaojunxiao/gaogaojunxiao.github.io)
 
