@@ -50,6 +50,7 @@ I am a dedicated data scientist with a passion for leveraging data analytics to 
 
 - **Description:** Collaborated on a study assessing the effectiveness of a community-based intervention to reduce discrimination, stigma, and sexual violence among men who have sex with men (MSM) in South Africa.
 - **Methodology:** Analyzed data from three serial cross-sectional surveys using logistic regression models to evaluate changes in discrimination, stigma, and sexual violence post-intervention.
+- **Code:** [Project 1: Intervention Against Discrimination and Violence in MSM Communities](https://github.com/gaogaojunxiao/project1.github.io)
 
 #### Project 2: Research on Co-morbidities and Post-operative Outcomes in Older Lumbar Surgery
 
